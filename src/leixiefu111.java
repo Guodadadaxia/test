@@ -10,5 +10,6 @@ public class leixiefu111 {
         System.out.println(a + "leixiefu131");
         System.out.println(a + "leixiefu131");
         System.out.println(a + "leixiefu131");
+        System.out.println(a + "leixiefu222");
     }
 }
