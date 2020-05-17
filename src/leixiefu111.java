@@ -5,5 +5,6 @@ public class leixiefu111 {
         System.out.println(a);
         a = a.replaceAll("'","\\\\'");
         System.out.println(a);
+        System.out.println(a + "leixiefu");
     }
 }
